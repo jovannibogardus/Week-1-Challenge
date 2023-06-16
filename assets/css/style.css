@@ -195,6 +195,8 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h3 {
     font-size: 20px;
 }
+
+/* changed footer to h3 to follow sequential order */
